@@ -1,0 +1,27 @@
+{
+  "catalogVersion": "2026.11.1",
+  "updatedAt": "2026-11-21",
+  "editions": [
+    {
+      "id": "lsg1910",
+      "title": "Louis Segond 1910",
+      "language": "fr",
+      "year": "1910",
+      "license": "Public Domain (1910 text) / CrossWire permission"
+    },
+    {
+      "id": "darby",
+      "title": "Bible J. N. Darby",
+      "language": "fr",
+      "year": "1885 / 2024",
+      "license": "Public Domain"
+    },
+    {
+      "id": "blivre2018",
+      "title": "Bíblia Livre 2018",
+      "language": "pt",
+      "year": "2018",
+      "license": "CC BY 3.0 BR"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Siloé — Atelier biblique",
+  "description": "PWA d’étude biblique en français et en portugais : lecture hors ligne (Louis Segond 1910, J. N. Darby, Bíblia Livre 2018), concordance, comparaison synchronisée, carnets d’étude et assistant biblique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

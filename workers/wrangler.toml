@@ -1,0 +1,10 @@
+name = "siloe-ai-relay"
+main = "siloe-ai-relay.ts"
+compatibility_date = "2026-11-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://USERNAME.github.io"
+
+# Configure secrets via Wrangler CLI (never commit secrets):
+# npx wrangler secret put GEMINI_API_KEY
+# npx wrangler secret put OPENAI_API_KEY
